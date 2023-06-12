@@ -8,3 +8,4 @@
   },
   "include": ["vite.config.ts"]
 }
+// 用于约束config.ts的配置
